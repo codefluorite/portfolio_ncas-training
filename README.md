@@ -12,3 +12,5 @@ Topics include:
 * Creating contour plots.
 * Regridding information.
 * Applying and altering colour scales to the plot data. 
+
+Each jupyter notebook file can be downloaded from this repo.
